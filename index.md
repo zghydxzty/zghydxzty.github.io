@@ -34,7 +34,7 @@ Focusing on the cutting-edge scientific issues of underground seepage simulation
 <br>
 
 ---
-## Part-time Job
+## Academic Part-time Job
 
 - **Associate Editor:** Journal of Hydrology
 - **Guest editor:** Frontiers in Marine Science

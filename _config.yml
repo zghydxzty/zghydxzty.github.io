@@ -2,18 +2,18 @@ title: Tianyuan Zheng
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://zghydxzty.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: Tianyuan Zheng
+# avatar: hanlin.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: zhengtianyuan@ouc.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
   # facebook: caihanlin2002
-  github: GuangLun2000
+  github: zghydxzty
   #linkedin: hanlin-cai-07b53b23b
   scholar: https://scholar.google.com/citations?hl=zh-CN&user=pzyinbUAAAAJ
   # instagram: lancecai2002
@@ -35,11 +35,11 @@ links:
   - title: About Me
     url: /
   - title: Research Progresses
-    url: /research progresses/
+    url: /
   - title: Achievements
-    url: /achievements/
+    url: /
   - title: Subjects
-    url: /subjects/
+    url: /
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
