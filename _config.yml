@@ -7,7 +7,7 @@ url: https://zghydxzty.github.io
 # Owner/author information
 owner:
   name: Tianyuan Zheng
-# avatar: hanlin.jpg
+  avatar: zghydxzty.png
 #  bio:
   email: zhengtianyuan@ouc.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -35,11 +35,11 @@ links:
   - title: About Me
     url: /
   - title: Research Progresses
-    url: /
+    url: /research progresses/
   - title: Achievements
-    url: /
+    url: /achievements/
   - title: Subjects
-    url: /
+    url: /subjects/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

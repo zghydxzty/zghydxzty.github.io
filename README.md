@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese
+# Ocean University of China, Tianyuan Zheng
 
 My name is **Tianyuan Zheng (郑天元)**. Here is my personal website. Welcome to fork for free!
 
