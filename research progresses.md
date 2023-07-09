@@ -17,6 +17,7 @@ In view of the long duration and large spatial scale of carbon dioxide storage p
 <center>
 <img src="/figures/1.png">
 </center>
+<br>
 
 2) The heat-fluid-solid coupling icing model was established and developed and applied in shallow geothermal development
 On the basis of leading the development of OpenGeoSys thermo-fluid-solid coupling module, based on the principle of solid mechanics and entropy inequality of continuum, the thermo-fluid-solid coupling constitutive equation under the condition of phase-change icing is derived, and two algorithms for simulating phase-change icing are proposed, both steady-state and dynamic, and a fully coupled calculation module for thermo-fluid-solid icing is developed in OGS. The temperature change of the fluid in the heat exchange tube and the surrounding strata and the force change of the pipe are predicted successfully, and the accuracy of the efficiency calculation of the ground source heat pump system is improved.
@@ -33,8 +34,9 @@ On the basis of leading the development of OpenGeoSys thermo-fluid-solid couplin
 By establishing a numerical model of seawater intrusion of solute transport coupled with variable density flow, the dynamic change characteristics of coastal groundwater flow field and solute concentration field under different seepage interception projects were systematically clarified, and the effects of seepage interception wall structure and aquifer properties on groundwater bottom discharge, brachy-water distribution and upstream nitrate enrichment under tidal and dynamic freshwater boundary conditions were quantitatively evaluated. The structure and layout of the seepage interception wall are optimized.
 
 <center>
-<img src="/figuress/3.png">
+<img src="/figures/3.png">
 </center>
+<br>
 
 2) The purification mechanism and treatment plan of underground residual salt water have been established
 A multi-scale numerical model of groundwater seepage and solute transport at the field scale was established to capture the automatic purification behavior of subsurface residual brackish water, reveal the dynamic mechanism of the purification of residual brackish water in aquifers under the action of seepage cutting engineering, clarify the real time scale of brackish water purification, and put forward such brackish water treatment schemes as "natural purification", "drainage of pit lake" and "combined drainage of well and lake". Good application effect has been obtained.
