@@ -8,7 +8,7 @@ title: Subjects
 
 - (1) Ocean University of China Outstanding Young Scientific and Technological Talents Cultivation Program, "Coastal Sea Literature and Geology", 2023.1-2026.12, presided
 - (2) National Natural Science Foundation of China, "Dynamic Mechanism and Environmental Effects of Groundwater-Salinity Change in Reclamation and Land Reclamation Area" (Project No.: 42272282), 2023.1-2026.12, presided
-- (3) National Natural Science Youth Foundation of China, "Research on the Mechanism and Environmental Effects of Infiltrating Wall on Seawater Intrusion-Desalination in Aquifers" (Project No.: 42002250), 2021.1-2023.12, Chair
+- (3) National Natural Science Youth Foundation of China, "Research on the Mechanism and Environmental Effects of Infiltrating Wall on Seawater Intrusion-Desalination in Aquifers" (Project No.: 42002250), 2021.1-2023.12, presided
 - (4) Qingdao Hydrology Center, "Research on Pollution Mechanism and Prevention Technology of Groundwater Source in Dagu River", 2022.09-2025.08, presided
 - (5) Qingdao Applied Research Project, "Research on Purification Mechanism and Environmental Effects of Residual Saline Water in Aquifers under the Action of Seepage Wall", 2019.8-2021.4, presided
 - (6) Ocean University of China "Young Talents" Start-up Fund, "Aquifer Seawater Intrusion and Its Impact on Ecological Environment under Variable Temperature Conditions", 2021.4-2024.3, presided
