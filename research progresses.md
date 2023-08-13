@@ -11,9 +11,7 @@ Our research group has been engaged in the numerical simulation of underground m
 #### [① Developed a software system for numerical simulation of multi-field coupled multiphase flow]
 
 Responsible for completing the programming, cloud-based automated testing (Jenkins), and version control and integration (Git) of modules such as thermodynamics, heat flow coupling, fluid-solid coupling, and thermofluid-solid coupling in OGS. Expanded the functionality and application areas of OGS. The developed software and related examples have been officially published by Springer (Kolditz et al., 2016, 2018a, 2018b).
-
 <center>
-
 1) Established and applied a coupled algorithm for multiphase flow full-size and dimensional reduction in underground carbon dioxide sequestration
 <center>
 Due to the long duration and large spatial scale of the carbon dioxide sequestration process, traditional three-dimensional two-phase flow models have low computational efficiency. Dimensional reduction models are often used to improve computational efficiency, but their application is limited by the local heterogeneity of the formation. Based on the IMPES algorithm, a coupled algorithm for multiphase flow full-size and dimensional reduction models was established. The full-size model is used in heterogeneous regions, while the dimensional reduction model is used in homogeneous regions. This coupled algorithm significantly improves computational efficiency compared to the full-size model while ensuring similar computational accuracy.
@@ -31,7 +29,7 @@ Based on leading the development of the OpenGeoSys thermofluid-solid coupling mo
 <br>
 
 #### [② Developed the theory of seawater intrusion evaluation and management methodology]
-
+<center>
 1) Revealed the dynamic mechanism and environmental effects of seawater intrusion control by cutoff walls
 <center>
 By establishing a numerical model that couples solute transport with variable-density flow, the dynamic changes in the coastal groundwater flow field and solute concentration field under different cutoff wall scenarios were systematically elucidated. The effects of cutoff wall structure and aquifer properties on groundwater discharge, freshwater-saltwater distribution, and upstream nitrate enrichment were quantitatively evaluated under tidal and dynamic freshwater boundary conditions. This optimization improved the design and layout of cutoff walls.
